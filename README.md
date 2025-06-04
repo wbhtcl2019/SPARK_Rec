@@ -8,11 +8,11 @@ SPARK_Rec is a hybrid recommendation system that combines SVD decomposition, hyp
 
 ## Key Features
 
-- 🌐 **Hybrid Geometric Spaces**: Euclidean and hyperbolic space fusion
-- 📊 **Knowledge Graph Integration**: Entity and relation embeddings
-- 🎯 **Adaptive Fusion**: Popularity-aware mixing strategies
-- 🔄 **Graph Neural Networks**: Message passing on interaction and KG graphs
-- 📈 **Contrastive Learning**: SVD and KG embedding alignment
+- **Hybrid Geometric Spaces**: Euclidean and hyperbolic space fusion
+- **Knowledge Graph Integration**: Entity and relation embeddings
+- **Adaptive Fusion**: Popularity-aware mixing strategies
+- **Graph Neural Networks**: Message passing on interaction and KG graphs
+- **Contrastive Learning**: SVD and KG embedding alignment
 
 ## Requirements
 
