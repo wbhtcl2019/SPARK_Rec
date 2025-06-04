@@ -169,16 +169,3 @@ python run_kg_model.py --batch_debug --dataset yelp2018
 ## License
 
 This project is available for academic and research purposes.
-
-## Citation
-
-If you use this code in your research, please cite our paper:
-
-```bibtex
-@inproceedings{spark_rec_2024,
-  title={SPARK_Rec: Knowledge Graph Enhanced Hybrid Geometric Recommendation},
-  author={Anonymous Authors},
-  booktitle={Proceedings of CIKM 2024},
-  year={2024}
-}
-```
